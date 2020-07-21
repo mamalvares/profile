@@ -8,4 +8,4 @@
 
 # Find me elsewhere 🌎
 
-📸 [Instagram](https://instagram.com/ma_abrahao) <br>
+📸 [Instagram](https://instagram.com/ma.abrahao) <br>
