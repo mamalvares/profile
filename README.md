@@ -1,4 +1,3 @@
-# Hi there 👋
 # Hey, I'm Matheus Abrahao! 👋
 
 🇧🇷 Born in São Paulo, Brazil <br>
