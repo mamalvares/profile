@@ -10,4 +10,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mamalvares&show_icons=true" alt="mamalvares" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=mamalvares&show_icons=true" alt="mamalvares" /> 
