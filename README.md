@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning Web Development and Mobile Development
 
-![PC Master Race gif](https://media1.tenor.com/images/778b5c865476947a335e00663254a954/tenor.gif?itemid=7446773)
+![PC Master Race gif](https://media.giphy.com/media/1wQy1qle7ChI8rgHbW/giphy.gif)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mamalvares&show_icons=true&theme=radical" alt="mamalvares" /> 
