@@ -12,7 +12,7 @@
 # My Hobbies 
 
 - 🎮 I love to play games on PC and I spend a lot of my time playing games with my friends.
-- 🎻 And at free time i like to play guitar.
+- 😎 And at free time i like to go to the gym and play guitar.
 
 
 ![PC Master Race gif](https://media.giphy.com/media/1wQy1qle7ChI8rgHbW/giphy.gif)
