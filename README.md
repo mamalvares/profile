@@ -17,9 +17,6 @@
 - 😎 And at free time i like to go to the gym and play guitar.
 
 
-![PC Master Race gif](https://media.giphy.com/media/1wQy1qle7ChI8rgHbW/giphy.gif)
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=mamalvares&show_icons=true&theme=radical" alt="mamalvares" /> 
 
 
