@@ -3,13 +3,15 @@
 
 🇧🇷 Born in São Paulo, Brazil <br>
 
+
 # What I'm working on 👨‍💻
 
 
-- 🌱 I’m currently learning Web Development and looking for Mobile Development.
+- 🌱 I’m currently learning Web Development and learning bot´s Development with Python.
 
 
 # My Hobbies 
+
 
 - 🎮 I love to play games on PC and I love play sports with my friends 🏀
 - 😎 And at free time i like to go to the gym and play guitar.
@@ -37,7 +39,7 @@
 
 
 <p align="center"> 
-
+    
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/mamalvares/count.svg" />
