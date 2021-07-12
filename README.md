@@ -6,12 +6,12 @@
 # What I'm working on 👨‍💻
 
 
-- 🌱 I’m currently learning Web Development and Mobile Development.
+- 🌱 I’m currently learning Web Development and looking for Mobile Development.
 
 
 # My Hobbies 
 
-- 🎮 I love to play games on PC and I spend a lot of my time playing games with my friends.
+- 🎮 I love to play games on PC and I love play sports with my friends 🏀
 - 😎 And at free time i like to go to the gym and play guitar.
 
 
