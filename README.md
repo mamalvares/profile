@@ -21,5 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mamalvares&show_icons=true&theme=radical" alt="mamalvares" /> 
 
 
-![](https://komarev.com/ghpvc/?mamalvares&color=green)
+![](https://komarev.com/ghpvc/?mamalvares=mamalvares&color=green)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 
