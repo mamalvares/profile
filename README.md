@@ -7,7 +7,7 @@
 # What I'm working on 👨‍💻
 
 
-- 🌱 I’m currently learning Web Development and learning bot´s Development with Python.
+- 🌱 I’m currently learning Web Development and learning Mobile Development with React Native.
 
 
 # My Hobbies 
